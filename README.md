@@ -13,7 +13,7 @@ int scanf( const char *format, ... )
 ```
 Int is the return type, and format is a format identifier, listed below. In place of ..., you write &A, where A is the variable in which the input is stored.
 
-Acceptable formgyat identifiers are: <br>
+Acceptable format identifiers are: <br>
 %d to accept input of integers <br>
 %ld to  accept input of long integers <br>
 %lld to accept input of long long integers <br>
